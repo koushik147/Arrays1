@@ -1,3 +1,5 @@
+#Time_Complexity: O(m*n) 
+#Space_Complexity : O(m*n)
 class Solution:
     def findDiagonalOrder(self, mat: List[List[int]]) -> List[int]:
         
