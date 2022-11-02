@@ -1,3 +1,5 @@
+#Time_Complexity: O(m*n) 
+#Space_Complexity : O(m*n)
 class Solution:
     def spiralOrder(self, matrix: List[List[int]]) -> List[int]:
         
